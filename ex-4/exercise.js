@@ -6,15 +6,11 @@ var HrU = prompt (" tell me hun how is your day?");
 
 if (HrU==="bad"){
 
-alert( " sorry hun ");
-}
-
-
-else if (HrU==="good") 
+alert( " sorry hun , Tomorrow the sun will rise ");
+}else if (HrU==="good") 
 
 {
-alert ( " Happy for you")
-
+alert ( " Happy for you hun ")
 
 }
 
