@@ -4,12 +4,12 @@ var y = prompt("Wirte the second number");
 
 if (x>y) {
     
-    window.alert( " The greater number of " + x + " than" + y);
+    window.alert( x +" The greater than "  + y);
 }
 
 else if (x<y) {
     
-    window.alert(" The greater number of " + y + " than" + x );
+    window.alert( y+ " The greater than " + x );
 }
 
 else {
