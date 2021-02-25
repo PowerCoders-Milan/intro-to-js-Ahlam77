@@ -1,5 +1,4 @@
 // Example
-window.alert("Hello dear!");
 
 var name = prompt (" tell me your name");
 window.alert(" Hello "+ name)
