@@ -2,8 +2,8 @@
 window.alert("Hello dear!");
 
 var name = prompt (" tell me your name");
-window.alert(" Hello hun "+ name)
-var HrU = prompt (" tell me how was your day?");
+window.alert(" Hello "+ name)
+var HrU = prompt (" tell me hun how is your day?");
 
 if (HrU==="bad"){
 
