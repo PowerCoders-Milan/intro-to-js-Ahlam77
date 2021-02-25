@@ -1,5 +1,5 @@
 // Example
-window.alert("Hello World!");
+
 
 var numberOfChildren = 3;
 var father = " Ali ";
